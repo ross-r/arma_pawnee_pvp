@@ -1,0 +1,6 @@
+author="Lynxaa";
+onLoadName="Pawnee PvP";
+onLoadMission="A deathmatch styled armed helicopter battle!";
+disabledAI=true;
+respawndelay = 5;
+saving=0;
